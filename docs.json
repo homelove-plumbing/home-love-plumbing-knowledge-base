@@ -7,14 +7,25 @@
     "light": "#3B9CD9",
     "dark": "#0B6BB3"
   },
+  "favicon": "/favicon.svg",
   "navigation": {
     "groups": [
       {
-        "group": "Home",
+        "group": "Drains & Sewer",
         "pages": [
-          "index"
+          "severe-drain-clog"
+        ]
+      },
+      {
+        "group": "More Topics",
+        "pages": [
+          "plumbing-shut-off-valve",
+          "tree-root-intrusion"
         ]
       }
     ]
+  },
+  "footer": {
+    "socials": {}
   }
 }
