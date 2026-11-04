@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://homelove-plumbing.github.io/home-love-plumbing-knowledge-base/sitemap.xml
