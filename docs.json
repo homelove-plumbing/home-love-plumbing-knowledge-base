@@ -17,10 +17,36 @@
         ]
       },
       {
+        "group": "Water Heaters",
+        "pages": [
+          "hot-water-outage"
+        ]
+      },
+      {
+        "group": "Pipes & Leaks",
+        "pages": [
+          "leaking-pipe"
+        ]
+      },
+      {
+        "group": "Fixtures, Kitchen & Bath",
+        "pages": [
+          "overflowing-toilet",
+          "running-toilet"
+        ]
+      },
+      {
+        "group": "Gas, Backflow & Sump",
+        "pages": [
+          "backflow-prevention-device-failure"
+        ]
+      },
+      {
         "group": "More Topics",
         "pages": [
           "plumbing-shut-off-valve",
-          "tree-root-intrusion"
+          "tree-root-intrusion",
+          "flood-cleanup"
         ]
       }
     ]
