@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: "Home Love Plumbing Knowledge Base"
+  structure:
+    - type: space
+      key: knowledge-base
+      title: "Home Love Plumbing Knowledge Base"
+      path: knowledge-base
+      default: true
+      content:
+        directory: ./gitbook
