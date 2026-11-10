@@ -11,6 +11,12 @@
   "navigation": {
     "groups": [
       {
+        "group": "Core Services",
+        "pages": [
+          "after-hours-plumbing-service"
+        ]
+      },
+      {
         "group": "Drains & Sewer",
         "pages": [
           "severe-drain-clog"
@@ -25,7 +31,9 @@
       {
         "group": "Pipes & Leaks",
         "pages": [
-          "leaking-pipe"
+          "pipe-insulation",
+          "leaking-pipe",
+          "pipe-corrosion"
         ]
       },
       {
@@ -44,6 +52,7 @@
       {
         "group": "More Topics",
         "pages": [
+          "pressure-relief-valve",
           "plumbing-shut-off-valve",
           "tree-root-intrusion",
           "flood-cleanup"
