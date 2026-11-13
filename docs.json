@@ -31,7 +31,10 @@
       {
         "group": "Pipes & Leaks",
         "pages": [
+          "pipe-relining",
+          "leak-detection-equipment",
           "pipe-insulation",
+          "major-water-leak",
           "leaking-pipe",
           "pipe-corrosion"
         ]
@@ -53,8 +56,10 @@
         "group": "More Topics",
         "pages": [
           "pressure-relief-valve",
+          "main-water-shutoff-valve",
           "plumbing-shut-off-valve",
           "tree-root-intrusion",
+          "surface-water-flooding",
           "flood-cleanup"
         ]
       }
