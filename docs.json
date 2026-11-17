@@ -13,12 +13,15 @@
       {
         "group": "Core Services",
         "pages": [
+          "emergency-plumbing-cost-estimation",
           "after-hours-plumbing-service"
         ]
       },
       {
         "group": "Drains & Sewer",
         "pages": [
+          "sewer-line-emergency",
+          "drain-snake-equipment",
           "severe-drain-clog"
         ]
       },
@@ -49,12 +52,14 @@
       {
         "group": "Gas, Backflow & Sump",
         "pages": [
-          "backflow-prevention-device-failure"
+          "backflow-prevention-device-failure",
+          "gas-leak"
         ]
       },
       {
         "group": "More Topics",
         "pages": [
+          "water-pressure-regulator-failure",
           "pressure-relief-valve",
           "main-water-shutoff-valve",
           "plumbing-shut-off-valve",
