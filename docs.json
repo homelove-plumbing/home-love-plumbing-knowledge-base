@@ -67,6 +67,12 @@
           "surface-water-flooding",
           "flood-cleanup"
         ]
+      },
+      {
+        "group": "About",
+        "pages": [
+          "about-this-guide"
+        ]
       }
     ]
   },
