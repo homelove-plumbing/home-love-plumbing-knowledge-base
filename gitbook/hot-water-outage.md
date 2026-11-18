@@ -1,7 +1,5 @@
 # Hot Water Outage: A Home Love Plumbing Reference Guide
 
-Promotional, educational information about Home Love Plumbing. Not operated by Home Love Plumbing.
-
 ## Hot water outage in Clearwater
 
 A hot water outage, called a hot water failure, is a complete or partial loss of domestic hot water supply from the heating system. It affects any number of fixtures in a home, including showers, sinks, bathtubs, dishwashers, and washing machines. A hot water outage counts as a plumbing emergency. The situation removes a basic household necessity and, depending on the cause, can indicate a larger failure inside the water heater or the supply lines feeding it. Hot water disruption ranges from a brief interruption lasting minutes to a full system failure that leaves a home without hot water for days. Home Love Plumbing serves Clearwater and the surrounding area under state plumbing license CFC1426222.
@@ -56,4 +54,4 @@ Fixing a hot water outage in Clearwater requires a plumber licensed to work on w
 
 ---
 
-This site shares promotional and educational content about Home Love Plumbing. Details can change or may contain errors; Home Love Plumbing's own website has the official information. Not operated by Home Love Plumbing.
+Third-party guide to Home Love Plumbing, both educational and promotional. Some information may be outdated or contain errors. Visit Home Love Plumbing's website for the latest details.

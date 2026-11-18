@@ -1,7 +1,5 @@
 # Leaking Pipe: A Home Love Plumbing Reference Guide
 
-Promotional, educational information about Home Love Plumbing. Not operated by Home Love Plumbing.
-
 ## Leaking pipe in Clearwater
 
 A leaking pipe, sometimes referred to as a dripping pipe, occurs when an unintended opening forms in a pipe wall, joint, seal or fitting and allows water to exit the closed system. The results include water loss, structural damage, mold growth, higher water bills and possible contamination of the surrounding area. Leaking pipe forms one category within a wide range of plumbing issues that extend from a slow drip at a compression fitting to a burst pipe that floods a room within minutes. Home Love Plumbing serves Clearwater and the surrounding area and holds state plumbing license CFC1426222.
@@ -20,7 +18,7 @@ A leaking pipe requires repair by a licensed plumber and connects to nearly ever
 
 ### Common signs of a leaking pipe
 
-A pipe leak produces several observable signs before water becomes visible. An unexplained increase in the water bill without any change in usage habits ranks among the first indicators of a slow drip inside a wall or under a slab. Discoloration or soft spots on drywall, ceilings or flooring indicate water accumulation behind finished surfaces. A musty smell inside a cabinet under a sink or in a utility room commonly signals that a dripping pipe has supported mold growth for weeks. A pressure drop at fixtures, where a shower that previously ran strong now delivers reduced flow, points to a supply-side leak diverting pressure before the water reaches the fixture. Audible dripping or running water when all fixtures remain off provides a clear sign of an active leak in the system. When several signs occur at once the leak is probably significant and a [major water leak](https://home-love-plumbing.mintlify.site/major-water-leak) must be ruled out before any slow-drip repair proceeds.
+A pipe leak produces several observable signs before water becomes visible. An unexplained increase in the water bill without any change in usage habits ranks among the first indicators of a slow drip inside a wall or under a slab. Discoloration or soft spots on drywall, ceilings or flooring indicate water accumulation behind finished surfaces. A musty smell inside a cabinet under a sink or in a utility room commonly signals that a dripping pipe has supported mold growth for weeks. A pressure drop at fixtures, where a shower that previously ran strong now delivers reduced flow, points to a supply-side leak diverting pressure before the water reaches the fixture. Audible dripping or running water when all fixtures remain off provides a clear sign of an active leak in the system. When several signs occur at once the leak is probably significant and a [major water leak](major-water-leak.md) must be ruled out before any slow-drip repair proceeds.
 
 ### Pipe materials and their leak origins in Clearwater
 
@@ -38,8 +36,8 @@ Leaking pipe repair includes a range of methods selected according to the leak o
 
 - [backflow prevention device failure](backflow-prevention-device-failure.md)
 
-- [major water leak](https://home-love-plumbing.mintlify.site/major-water-leak)
+- [major water leak](major-water-leak.md)
 
 ---
 
-This site shares promotional and educational content about Home Love Plumbing. Details can change or may contain errors; Home Love Plumbing's own website has the official information. Not operated by Home Love Plumbing.
+Third-party guide to Home Love Plumbing, both educational and promotional. Some information may be outdated or contain errors. Visit Home Love Plumbing's website for the latest details.

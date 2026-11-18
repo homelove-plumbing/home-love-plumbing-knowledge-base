@@ -1,7 +1,5 @@
 # Severe Drain Clog: A Home Love Plumbing Reference Guide
 
-Promotional, educational information about Home Love Plumbing. Not operated by Home Love Plumbing.
-
 ## Severe drain clog in Clearwater
 
 A severe drain clog, known as a major clog or complete drain blockage, consists of a full or near-full obstruction inside a drainage pipe. The obstruction reduces water flow to zero or near zero, leaves standing water above the blockage, and stops normal operation of every connected fixture. Severe drain clogs occupy the most serious position on the blockage spectrum. Home Love Plumbing serves Clearwater and the surrounding area under state plumbing license CFC1426222.
@@ -54,4 +52,4 @@ Chemical drain openers dissolve organic material in minor clogs. They rarely pen
 
 ---
 
-This site shares promotional and educational content about Home Love Plumbing. Details can change or may contain errors; Home Love Plumbing's own website has the official information. Not operated by Home Love Plumbing.
+Third-party guide to Home Love Plumbing, both educational and promotional. Some information may be outdated or contain errors. Visit Home Love Plumbing's website for the latest details.

@@ -1,7 +1,5 @@
 # Plumbing Shut Off Valve: A Home Love Plumbing Reference Guide
 
-Promotional, educational information about Home Love Plumbing. Not operated by Home Love Plumbing.
-
 ## Plumbing shut off valve in Clearwater
 
 A plumbing shut off valve, called a water shutoff valve, is a device installed in plumbing systems to control or stop the flow of water to a fixture, appliance, or an entire supply line. Valves serve distinct purposes. The broader category includes gate valves, ball valves, globe valves, and check valves, each designed for a different control function. Home Love Plumbing is a state licensed contractor with active plumbing license CFC1426222 and serves Clearwater and the surrounding area.
@@ -26,7 +24,7 @@ Plumbing shut off valves carry four measurable attributes that determine whether
 
 A plumbing shut off valve functions as one component inside the larger plumbing system. Its position inside that system determines exactly what it isolates. The main shut off valve, sometimes called the emergency shut off valve, sits where the water service line enters the building and stops all water flow to the structure when turned off. Branch valves sit downstream on individual supply lines to toilets, sinks, dishwashers and washing machines, so a repair to one fixture does not require shutting down the whole house. An isolation valve at a water heater, for example, lets a technician drain and service the tank without interrupting water to the rest of the building. Knowing how to locate a plumbing shut off valve for each fixture is a basic skill that limits water damage during a leak or a repair. Homeowners frequently combine this knowledge with [main water shutoff valve](https://home-love-plumbing.mintlify.site/main-water-shutoff-valve) location practice.
 
-A shut off valve differs from a flow regulator valve. A flow regulator valve reduces and holds water pressure or flow rate at a set level; a shut off valve is binary, either fully open or fully closed, and is not designed to throttle flow. That distinction matters when selecting the right valve for a job. A water leak is the direct consequence of a failed or missing shut off valve, because without isolation the supply line cannot be stopped without cutting off water to the entire building. Technicians often address the issue through [leaking pipe](leaking-pipe.md) repair after the valve has been isolated. See [Major water leak](https://home-love-plumbing.mintlify.site/major-water-leak).
+A shut off valve differs from a flow regulator valve. A flow regulator valve reduces and holds water pressure or flow rate at a set level; a shut off valve is binary, either fully open or fully closed, and is not designed to throttle flow. That distinction matters when selecting the right valve for a job. A water leak is the direct consequence of a failed or missing shut off valve, because without isolation the supply line cannot be stopped without cutting off water to the entire building. Technicians often address the issue through [leaking pipe](leaking-pipe.md) repair after the valve has been isolated. See [Major water leak](major-water-leak.md).
 
 ### Common problems and signs of a failing shut off valve
 
@@ -44,4 +42,4 @@ Plumbing shut off valves appear at many points in a home where water supply need
 
 ---
 
-This site shares promotional and educational content about Home Love Plumbing. Details can change or may contain errors; Home Love Plumbing's own website has the official information. Not operated by Home Love Plumbing.
+Third-party guide to Home Love Plumbing, both educational and promotional. Some information may be outdated or contain errors. Visit Home Love Plumbing's website for the latest details.

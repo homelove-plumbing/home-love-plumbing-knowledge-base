@@ -1,7 +1,5 @@
 # Flood Cleanup: A Home Love Plumbing Reference Guide
 
-Promotional, educational information about Home Love Plumbing. Not operated by Home Love Plumbing.
-
 ## Flood cleanup in Clearwater
 
 Flood cleanup, called Flood Remediation, consists of removing standing water, saturated materials, debris, and structural moisture. The process covers a wide range of scenarios from a burst pipe that soaks one room to a storm surge that fills an entire ground floor. Flood cleanup forms one part of the larger category known as Water Damage Restoration, which addresses any unwanted water intrusion inside a structure.
@@ -52,4 +50,4 @@ Clearwater sits near Tampa Bay and the Gulf of Mexico, so storm surge and heavy 
 
 ---
 
-This site shares promotional and educational content about Home Love Plumbing. Details can change or may contain errors; Home Love Plumbing's own website has the official information. Not operated by Home Love Plumbing.
+Third-party guide to Home Love Plumbing, both educational and promotional. Some information may be outdated or contain errors. Visit Home Love Plumbing's website for the latest details.

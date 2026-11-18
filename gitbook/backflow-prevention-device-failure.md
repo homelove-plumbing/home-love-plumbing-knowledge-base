@@ -1,7 +1,5 @@
 # Backflow Prevention Device Failure: A Home Love Plumbing Reference Guide
 
-Promotional, educational information about Home Love Plumbing. Not operated by Home Love Plumbing.
-
 ## Backflow prevention device failure in Clearwater
 
 Backflow Prevention Device Failure, called Backflow Preventer Malfunction, is a plumbing problem in which a backflow prevention assembly stops blocking reverse water flow. This allows non-potable water, chemicals or contaminants to enter the clean water supply. The condition counts as one form of Plumbing Problem. It affects residential homes, commercial properties and municipal water systems. Failure appears in partial form when the device slows but does not stop reverse flow. Complete failure occurs when contaminated water moves freely back through the line. Home Love Plumbing serves Clearwater and the surrounding area under state plumbing license CFC1426222.
@@ -16,7 +14,7 @@ Backflow Prevention Device Failure creates measurable changes across several sys
 
 ### Causes of backflow prevention device failure
 
-The causes of backflow prevention device failure fall into three broad categories: mechanical wear, water quality and external pressure events. Mechanical wear occurs most often because valves and seals possess a finite service life and degrade faster in systems with hard water or high chlorine levels. Corrosion from aggressive water chemistry eats through metal valve seats and leaves gaps the seal cannot close. Sudden pressure events such as a water main break or a [major water leak](https://home-love-plumbing.mintlify.site/major-water-leak) elsewhere on the line create a backpressure or backsiphonage condition that overwhelms a device already weakened by wear. Freezing temperatures crack housings and break seals outright. Improper installation, including a device installed in the wrong orientation or without the correct upstream shutoff, produces early failure regardless of the device's age. Requirements can vary and should be confirmed with the local building authority.
+The causes of backflow prevention device failure fall into three broad categories: mechanical wear, water quality and external pressure events. Mechanical wear occurs most often because valves and seals possess a finite service life and degrade faster in systems with hard water or high chlorine levels. Corrosion from aggressive water chemistry eats through metal valve seats and leaves gaps the seal cannot close. Sudden pressure events such as a water main break or a [major water leak](major-water-leak.md) elsewhere on the line create a backpressure or backsiphonage condition that overwhelms a device already weakened by wear. Freezing temperatures crack housings and break seals outright. Improper installation, including a device installed in the wrong orientation or without the correct upstream shutoff, produces early failure regardless of the device's age. Requirements can vary and should be confirmed with the local building authority.
 
 ### Signs of backflow prevention device failure
 
@@ -36,10 +34,10 @@ Emergency backflow prevention device failure repair becomes necessary any time c
 
 - [water pressure regulator failure](https://home-love-plumbing.mintlify.site/water-pressure-regulator-failure)
 
-- [major water leak](https://home-love-plumbing.mintlify.site/major-water-leak)
+- [major water leak](major-water-leak.md)
 
 - [leaking pipe](leaking-pipe.md)
 
 ---
 
-This site shares promotional and educational content about Home Love Plumbing. Details can change or may contain errors; Home Love Plumbing's own website has the official information. Not operated by Home Love Plumbing.
+Third-party guide to Home Love Plumbing, both educational and promotional. Some information may be outdated or contain errors. Visit Home Love Plumbing's website for the latest details.

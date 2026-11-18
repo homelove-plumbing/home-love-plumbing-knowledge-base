@@ -1,7 +1,5 @@
 # Overflowing Toilet: A Home Love Plumbing Reference Guide
 
-Promotional, educational information about Home Love Plumbing. Not operated by Home Love Plumbing.
-
 ## Overflowing toilet in Clearwater
 
 An overflowing toilet, known as a toilet overflow, occurs when water rises past the bowl rim and runs onto the floor. This plumbing malfunction stems from a clogged drain pipe, a failed flush valve, a blocked overflow tube, a faulty fill valve, or a sewer line obstruction that stops waste from clearing the trap. The issue counts as one form of plumbing problem. It shares its category with burst pipes, sewer backups, and drain failures.
@@ -38,8 +36,8 @@ Emergency overflowing toilet repair follows a defined sequence no matter what ca
 
 - [backflow prevention device failure](backflow-prevention-device-failure.md)
 
-- [major water leak](https://home-love-plumbing.mintlify.site/major-water-leak)
+- [major water leak](major-water-leak.md)
 
 ---
 
-This site shares promotional and educational content about Home Love Plumbing. Details can change or may contain errors; Home Love Plumbing's own website has the official information. Not operated by Home Love Plumbing.
+Third-party guide to Home Love Plumbing, both educational and promotional. Some information may be outdated or contain errors. Visit Home Love Plumbing's website for the latest details.

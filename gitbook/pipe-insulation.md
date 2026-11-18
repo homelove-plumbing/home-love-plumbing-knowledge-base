@@ -1,7 +1,5 @@
 # Pipe Insulation: A Home Love Plumbing Reference Guide
 
-Promotional, educational information about Home Love Plumbing. Not operated by Home Love Plumbing.
-
 ## Pipe insulation in Clearwater
 
 Thermal pipe wrap, known as pipe lagging, consists of material placed around water supply lines, drain pipes, refrigerant lines, and other plumbing runs. The material prevents heat loss, limits condensation, protects against freezing, and reduces energy waste. Every section of pipe that passes through an unconditioned space requires pipe lagging. These locations include attics, crawl spaces, exterior wall cavities, and garages.
@@ -42,4 +40,4 @@ Pipe insulation appears in several material forms. Each form suits a different s
 
 ---
 
-This site shares promotional and educational content about Home Love Plumbing. Details can change or may contain errors; Home Love Plumbing's own website has the official information. Not operated by Home Love Plumbing.
+Third-party guide to Home Love Plumbing, both educational and promotional. Some information may be outdated or contain errors. Visit Home Love Plumbing's website for the latest details.

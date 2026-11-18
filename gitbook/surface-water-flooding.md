@@ -1,0 +1,43 @@
+# Surface Water Flooding: A Home Love Plumbing Reference Guide
+
+## Surface water flooding in Clearwater
+
+Pluvial flooding, known as surface water flooding, occurs when rainwater, runoff, and blocked drainage systems cause water to collect on land surfaces because the systems cannot remove it quickly enough. Standing water then covers roads, yards, driveways, crawl spaces, and building foundations. Home Love Plumbing serves Clearwater and the surrounding area under state plumbing license CFC1426222.
+
+### What surface water flooding is and how it forms
+
+Surface water flooding belongs to the broader category of flood events. That category includes riverine flooding, coastal surge, and groundwater flooding. Pluvial flooding forms when rainfall intensity exceeds the capacity of the ground and drainage infrastructure to absorb or carry water away. Blocked drains, compacted soil, and impervious surfaces such as concrete and asphalt all reduce the land's ability to shed water. Even a moderate storm can leave several inches of standing water across a property in under an hour. Unlike riverine flooding, which requires a nearby waterway to overflow its banks, stormwater flooding can occur anywhere rainfall is heavy enough. The condition creates risk across flat coastal cities like Clearwater regardless of proximity to a river or canal.
+
+### Measurable attributes of a surface water flooding event
+
+Surface water flooding is measured by four primary attributes: water depth, duration, affected area, and rate of accumulation. Water depth is the most immediate safety measure. Even a depth of 15 cm (about 6 inches) is enough to knock a person off balance or stall a vehicle. Duration describes how long standing water remains on a surface after rainfall stops, ranging from under two hours in areas with functioning drainage to more than 24 hours where drainage is blocked or the ground is already saturated. Affected area size is recorded in square meters or square feet and determines the scale of the cleanup response required. A localized event might cover 50 to 200 square meters of a single property, while a widespread stormwater flooding event can affect thousands of square meters across a neighborhood. Rate of accumulation, sometimes called rise rate, matters because water that rises faster than 30 cm per hour leaves little time for residents to move belongings or shut off utilities before damage occurs.
+
+### Component parts of a surface water flooding event
+
+Surface water flooding has three main component parts: rainfall accumulation, overflow runoff, and blocked drains. Rainfall accumulation is the direct contribution of precipitation falling onto a surface faster than it can infiltrate the soil. Overflow runoff is water that has already moved across adjacent land, roads, or rooftops and converges at low points on a property, compounding the depth from direct rainfall alone. Blocked drains are the most controllable factor. A single clogged catch basin or downspout can back up enough water to flood a crawl space or interior floor. In Clearwater's subtropical climate, heavy afternoon thunderstorms between June and September are the most common trigger for all three components acting together.
+
+### Signs of a surface water flooding emergency on a property
+
+Surface water flooding shows recognizable signs before and after water enters a structure. Standing water that does not recede within two to three hours after rain stops is the clearest indicator that drainage is failing. Waterlines on exterior foundation walls, silt deposits along baseboards and a persistent musty odor inside a crawl space or lower floor all point to a recent or ongoing stormwater flooding event. Gurgling sounds from floor drains and toilets during heavy rain indicate that the municipal sewer or drain line is surcharging, pushing water back toward the property rather than away from it. A surface water flooding emergency develops quickly when any of these signs appear alongside active rainfall, because water already inside a structure continues to cause structural and microbial damage for every hour it remains. [Emergency plumber services](https://home-love-plumbing.mintlify.site/emergency-plumber-services) address the plumbing-side causes of that backflow and water intrusion before the damage compounds.
+
+### How surface water flooding relates to plumbing systems
+
+Surface water flooding causes emergency plumbing responses when floodwater enters drain lines, overwhelms sewer connections or forces water back through fixtures. The relationship is direct: stormwater flooding raises the water table around buried pipes, which increases the hydrostatic pressure on pipe joints and can force groundwater into cracked sewer lines through a process called infiltration. Drain and pipe services, including jetting pipes and sewer line repair, are the primary plumbing interventions after a flood event because debris-laden water leaves sediment inside lines that restricts flow and accelerates future flooding. [Emergency plumbing services](https://home-love-plumbing.mintlify.site/emergency-plumbing-services) cover the full range of responses from leak detection and pipe repair to re-piping sections that sustained structural damage from prolonged water exposure. Residential properties face the highest frequency of surface water flooding calls because crawl spaces and slab foundations sit at or near grade level. [Residential plumbing](https://home-love-plumbing.mintlify.site/residential-plumbing) systems require post-flood inspection of water heaters, supply lines and drain connections before the home is reoccupied. [Commercial plumbing](https://home-love-plumbing.mintlify.site/commercial-plumbing) systems face a different risk profile, because larger floor drains and grease traps can become entry points for floodwater if backflow prevention devices are absent or worn.
+
+### Surface water flooding restoration and what it involves
+
+Surface water flooding restoration is the process of extracting standing water, drying affected surfaces, and repairing or replacing plumbing components damaged by the event. Extraction must begin immediately. Water sitting on wood subfloors or inside wall cavities for more than 24 to 48 hours creates conditions for mold growth, so entry should occur as soon as the property is safe to access. Emergency cleanup typically involves removing standing water, clearing blocked drains, and inspecting all drain and pipe connections for displacement or cracking caused by soil movement during the flood. Leak detection and repair follows extraction, because pipes that shifted during saturation may not show active leaks until water pressure is restored. A property with clear, properly graded drainage and intact drain lines returns to dry ground faster and sustains less secondary damage than one where drainage infrastructure was already compromised before the event.
+
+### Related entities
+
+- [emergency plumber services](https://home-love-plumbing.mintlify.site/emergency-plumber-services)
+
+- [emergency plumbing services](https://home-love-plumbing.mintlify.site/emergency-plumbing-services)
+
+- [residential plumbing](https://home-love-plumbing.mintlify.site/residential-plumbing)
+
+- [commercial plumbing](https://home-love-plumbing.mintlify.site/commercial-plumbing)
+
+---
+
+Third-party guide to Home Love Plumbing, both educational and promotional. Some information may be outdated or contain errors. Visit Home Love Plumbing's website for the latest details.
