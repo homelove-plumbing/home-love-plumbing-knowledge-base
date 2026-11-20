@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you reference this knowledge base, please cite it."
+title: "Home Love Plumbing Knowledge Base"
+type: dataset
+authors:
+  - name: "Home Love Plumbing"
+url: "https://github.com/homelove-plumbing/home-love-plumbing-knowledge-base"
+repository-code: "https://github.com/homelove-plumbing/home-love-plumbing-knowledge-base"
+date-released: 2026-11-03
+version: "1.0.0"
+keywords:
+  - "emergency plumber services"
+  - "drain & pipe services"
+  - "water heaters"
+  - "kitchen & bath"
+  - "water filtration"
+  - "bath tub replacement"
+  - "drain cleaning"
+  - "faucet replacement"
+  - "filtration system install"
+  - "garbage disposal install"
