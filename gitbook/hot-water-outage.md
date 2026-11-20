@@ -14,7 +14,7 @@ A hot water outage carries four measurable attributes that define how serious th
 
 ### How a hot water outage relates to the broader plumbing system
 
-A hot water outage sits inside the broader category of plumbing emergencies because it shares the same urgency threshold: the home cannot function normally until the supply is restored. See [Emergency plumber services](https://home-love-plumbing.mintlify.site/emergency-plumber-services). The water heater connects to the cold supply line, the hot distribution lines, a pressure relief valve and, in gas units, a flue or venting system, so a failure in any one of those components can trigger an outage. A sewer line blockage can indirectly cause a hot water disruption when a shared drain stack backs up and forces a household shutdown. [Sewer line emergencies](https://home-love-plumbing.mintlify.site/sewer-line-emergency) and hot water failures sometimes occur together after a major pipe event, which is why a plumber assesses the full system rather than the heater alone.
+A hot water outage sits inside the broader category of plumbing emergencies because it shares the same urgency threshold: the home cannot function normally until the supply is restored. See [Emergency plumber services](https://home-love-plumbing.mintlify.site/emergency-plumber-services). The water heater connects to the cold supply line, the hot distribution lines, a pressure relief valve and, in gas units, a flue or venting system, so a failure in any one of those components can trigger an outage. A sewer line blockage can indirectly cause a hot water disruption when a shared drain stack backs up and forces a household shutdown. [Sewer line emergencies](sewer-line-emergency.md) and hot water failures sometimes occur together after a major pipe event, which is why a plumber assesses the full system rather than the heater alone.
 
 ### Common causes and signs of hot water failure
 
@@ -48,7 +48,7 @@ Fixing a hot water outage in Clearwater requires a plumber licensed to work on w
 
 - [emergency plumber services](https://home-love-plumbing.mintlify.site/emergency-plumber-services)
 
-- [sewer line emergency](https://home-love-plumbing.mintlify.site/sewer-line-emergency)
+- [sewer line emergency](sewer-line-emergency.md)
 
 - [garbage disposal emergency](https://home-love-plumbing.mintlify.site/garbage-disposal-emergency)
 
